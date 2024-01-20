@@ -9,12 +9,15 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color:pink;
-    background-image: url(img/image1.png);
+    background-color:rgb(223, 201, 205);
+    background-image: url(img/illustration-usa-flag_53876-18165.avif);
+    background-image: linear-gradient();
+    background-size: cover;
+  
 
 }
 .container{
-    background-color: #fff;
+    background-color: rgb(220, 202, 202);
     padding: 2rem;
     border-radius: 1rem;
     height: 40vh;
@@ -38,7 +41,7 @@ form select, button, input{
 }
 
 form input{
-    border:  1px solid lightgray;
+    border:  1px solid rgb(255, 255, 255);
     font-size: 1rem;
     height: 3rem;
     padding-left: 0.5rem;
