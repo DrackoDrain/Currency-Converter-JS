@@ -10,13 +10,14 @@ body{
     align-items: center;
     min-height: 100vh;
     background-color:pink;
+    background-image: url(img/image1.png);
 
 }
 .container{
     background-color: #fff;
     padding: 2rem;
     border-radius: 1rem;
-    height: 45vh;
+    height: 40vh;
     width: 40vh;
 
 
@@ -81,8 +82,8 @@ form input{
 
 form button{
     height: 3rem;
-    background-color: #af4d98;
-    columns: #fff;
+    background-color: #21021a;
+    color: #fff;
     font-size: 1.15rem;
     /* cursor: pointer; */
 
